@@ -1,4 +1,3 @@
-//usu y pw
 let form = document.querySelector('form');
 let usu = document.getElementById('usu');
 let pw = document.getElementById('pw');
